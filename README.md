@@ -11,5 +11,3 @@ apt-get install mpc
 ```
 
 Do not forget to change the user and password in <b>config.php
-
-<img src="http://jsound.org/img/MPC_Front.png">
